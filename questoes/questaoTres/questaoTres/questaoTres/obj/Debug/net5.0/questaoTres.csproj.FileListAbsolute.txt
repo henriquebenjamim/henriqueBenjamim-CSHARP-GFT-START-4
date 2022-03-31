@@ -1,0 +1,16 @@
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.csproj.AssemblyReference.cache
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.AssemblyInfoInputs.cache
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.AssemblyInfo.cs
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.csproj.CoreCompileInputs.cache
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\bin\Debug\net5.0\questaoTres.exe
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\bin\Debug\net5.0\questaoTres.deps.json
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\bin\Debug\net5.0\questaoTres.runtimeconfig.json
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\bin\Debug\net5.0\questaoTres.runtimeconfig.dev.json
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\bin\Debug\net5.0\questaoTres.dll
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\bin\Debug\net5.0\questaoTres.pdb
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.dll
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\refint\questaoTres.dll
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.pdb
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\questaoTres.genruntimeconfig.cache
+C:\GFT-START-4\questoes\questaoTres\questaoTres\questaoTres\obj\Debug\net5.0\ref\questaoTres.dll
