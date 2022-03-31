@@ -1,0 +1,16 @@
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.csproj.AssemblyReference.cache
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.AssemblyInfoInputs.cache
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.AssemblyInfo.cs
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.csproj.CoreCompileInputs.cache
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\bin\Debug\net5.0\questaoDois.exe
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\bin\Debug\net5.0\questaoDois.deps.json
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\bin\Debug\net5.0\questaoDois.runtimeconfig.json
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\bin\Debug\net5.0\questaoDois.runtimeconfig.dev.json
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\bin\Debug\net5.0\questaoDois.dll
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\bin\Debug\net5.0\questaoDois.pdb
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.dll
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\refint\questaoDois.dll
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.pdb
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\questaoDois.genruntimeconfig.cache
+C:\GFT-START-4\questaoUm\questaoDois\questaoDois\questaoDois\obj\Debug\net5.0\ref\questaoDois.dll

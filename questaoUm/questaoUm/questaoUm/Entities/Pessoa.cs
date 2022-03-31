@@ -25,7 +25,7 @@ namespace questaoUm.Entities
             DateTime horarioAgora = DateTime.Now;
             TimeSpan idade = horarioAgora.Subtract(DataDeNascimento);
             
-            return "Tem " + Math.Ceiling(idade.TotalDays / 365).ToString("F0") + " anos"; 
+            return "Tem " + Math.Ceiling(idade.TotalDays / 365).ToString("F2") + " anos"; 
         }
         public override string ToString()
         {
