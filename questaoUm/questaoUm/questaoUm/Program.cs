@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using questaoUm.Entities;
 
 namespace questaoUm
 {
@@ -6,12 +8,17 @@ namespace questaoUm
     {
         static void Main(string[] args)
         {
-            string[] valor = Console.ReadLine().Split();
-            int A = int.Parse(valor[0]);
-            int B = int.Parse(valor[1]);
+            Console.Write("Nome: ");
+            string nome = Console.ReadLine();
+            Console.Write("Data de nascimento: ");
+            DateTime dataNasc = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
+            Console.Write("Altura: ");
+            double altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Pessoa pessoa = new Pessoa(nome, dataNasc, altura);
 
-            Console.WriteLine(A);
-            Console.WriteLine(B);
+            Console.WriteLine(pessoa.ToString());
+            Console.WriteLine(pessoa.calcularIdade());
+
         }
     }
 }
