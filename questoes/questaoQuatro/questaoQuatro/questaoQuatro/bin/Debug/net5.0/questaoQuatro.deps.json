@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "questaoQuatro/1.0.0": {
+        "runtime": {
+          "questaoQuatro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "questaoQuatro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

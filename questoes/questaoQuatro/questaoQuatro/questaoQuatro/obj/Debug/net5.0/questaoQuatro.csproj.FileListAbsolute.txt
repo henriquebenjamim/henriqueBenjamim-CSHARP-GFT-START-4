@@ -1,0 +1,16 @@
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\bin\Debug\net5.0\questaoQuatro.exe
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\bin\Debug\net5.0\questaoQuatro.deps.json
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\bin\Debug\net5.0\questaoQuatro.runtimeconfig.json
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\bin\Debug\net5.0\questaoQuatro.runtimeconfig.dev.json
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\bin\Debug\net5.0\questaoQuatro.dll
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\bin\Debug\net5.0\questaoQuatro.pdb
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.csproj.AssemblyReference.cache
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.AssemblyInfoInputs.cache
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.AssemblyInfo.cs
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.csproj.CoreCompileInputs.cache
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.dll
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\refint\questaoQuatro.dll
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.pdb
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\questaoQuatro.genruntimeconfig.cache
+C:\GFT-START-4\questoes\questaoQuatro\questaoQuatro\questaoQuatro\obj\Debug\net5.0\ref\questaoQuatro.dll
