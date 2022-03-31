@@ -1,0 +1,16 @@
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\bin\Debug\net5.0\questaoNumeroUm.exe
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\bin\Debug\net5.0\questaoNumeroUm.deps.json
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\bin\Debug\net5.0\questaoNumeroUm.runtimeconfig.json
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\bin\Debug\net5.0\questaoNumeroUm.runtimeconfig.dev.json
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\bin\Debug\net5.0\questaoNumeroUm.dll
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\bin\Debug\net5.0\questaoNumeroUm.pdb
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.csproj.AssemblyReference.cache
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.AssemblyInfoInputs.cache
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.AssemblyInfo.cs
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.csproj.CoreCompileInputs.cache
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.dll
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\refint\questaoNumeroUm.dll
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.pdb
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\questaoNumeroUm.genruntimeconfig.cache
+C:\GFT-START-4\questoes\questaoNumeroUm\questaoNumeroUm\questaoNumeroUm\obj\Debug\net5.0\ref\questaoNumeroUm.dll

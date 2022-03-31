@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "questaoNumeroUm/1.0.0": {
+        "runtime": {
+          "questaoNumeroUm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "questaoNumeroUm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
